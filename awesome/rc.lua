@@ -573,8 +573,3 @@ beautiful.useless_gap = 3
 
 
 -- Auto Start
-awful.util.spawn("nitrogen --restore")
-awful.util.spawn("optimus-manager-qt")
-awful.util.spawn("flameshot")
-awful.util.spawn("picom")
-awful.util.spawn("gnome-keyring")
