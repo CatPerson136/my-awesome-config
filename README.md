@@ -14,4 +14,4 @@ If you do not have git insalled use ```sudo apt install git``` on Ubuntu or ```s
 Git into the folder by using ```cd ~/my-awesome-config.git```
 
 To copy the awesome folder use ```cp awesome ~/.config```
-Reload the window manager by using Ctrl+Super+Q and enjoy!
+Reload the window manager by using Ctrl+Super+R and enjoy!
